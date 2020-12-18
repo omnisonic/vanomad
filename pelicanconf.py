@@ -3,10 +3,10 @@
 
 AUTHOR = 'VaNomad'
 SITENAME = 'VaNomad'
-SITEURL = ''
+SITEURL = 'Vanomad.com'
 
 PATH = 'content'
-
+OUTPUT_PATH = 'docs/'
 TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = 'en'
