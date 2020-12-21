@@ -1,15 +1,15 @@
 Date: 2020-12-20
-Title: DIY Solar Panel Roof Rack for Transit Connec Van
+Title: DIY Solar Panel Roof Rack for Transit Connect Van
 Category: Solar
 
 Today I did a first test fit of my diy roof rack and 180 watt solar panel.  It worked!  What a relief after so much back and forth trying to find the right components to make it all fit together securely.
 
-My aim is to try make a low profile, strong, easily modifiable and repairable, and economical solution for mounting solar panels on the top of my Transit Connect van.  I want fit as much solar as possible.  I did measurements and I think I can fit just over 300 watts.  As I said, today was just a trial fit of the basif rack framing so I only put one panel on.  
+My aim is to try make a low profile, strong, easily modifiable and repairable, and economical solution for mounting solar panels on the top of my Transit Connect van.  I want fit as much solar as possible.  I did measurements and I think I can fit just over 300 watts.  As I said, today was just a trial fit of the basic rack framing so I only put one panel on.  
 
 It turned out low profile and stealthy.  A look I was hoping.  I used the thin channel strut which is plenty rigid and strong enough for holding the panels.  Mounted on top is a 175 watt panel and from this angle you can barely see it which is great.  [Buy 175 Watt Solar Panel on Amazon ](https://amzn.to/2KnbcYN)
 ![](https://api.pcloud.com/getpubthumb?code=XZfff8XZe2vyaomYM4ypEwd3hnPMrmb2wifk&linkpassword=undefined&size=600x600&crop=0&type=auto)
 
-I mounted door hinges to unistrut and to the solar panels.  These are door hinges with a removable pin so that the panels could be easily separated from the strut. Mounted on hinges, I will be able to angle the panels towards the sun to increase their efficiency.  [Buy hinges on Amazon](https://amzn.to/2KlQrMY)
+I mounted door hinges to  strut channel and to the solar panels.  These are door hinges with a removable pin so that the panels could be easily separated from the strut. Mounted on hinges, I will be able to angle the panels towards the sun to increase their efficiency.  [Buy hinges on Amazon](https://amzn.to/2KlQrMY)
 
 ![hinges mounted](https://api.pcloud.com/getpubthumb?code=XZoSf8XZB3nuLXGYFibpJSPA39YtAunmlm07&linkpassword=undefined&size=400x400&crop=0&type=auto)
 
@@ -18,12 +18,12 @@ These channel nuts with the blue plastic rings worked great for fastening the hi
 ![](https://api.pcloud.com/getpubthumb?code=XZ2Sf8XZlQnjKgqcJ1FCwDROWirfD5IENrPk&linkpassword=undefined&size=400x400&crop=0&type=auto)
 
 
-Here the panel has been successfully mounted to the channel strut on hinges and can easily be position at any angle.  Of course I will need to contruct some sturdy braces to hold the other end of the panel up--in the pictue i am just holding it up with my hand.
+Here the panel has been successfully mounted to the channel strut on hinges and can easily be position at any angle.  Of course I will need to construct some sturdy braces to hold the other end of the panel up--in the picture i am just holding it up with my hand.
 
 ![](https://api.pcloud.com/getpubthumb?code=XZtSf8XZoQsFmnsBo3mWTmuFQwlLaHOG1U2V&linkpassword=undefined&size=400x400&crop=0&type=auto)
 
 
-Here I am testing out the spacers between the channel strut and the roof of the van.  The top of the trancit connect is slighlty curved so spacers are necessary.  I am using the four existing mounting point on the roof.  The spacers have a hole in the middle that the bold will go through.  I needed something heavy duty and I found  automotive suspension grommets do the job. [suspension grommets on Amazon](https://amzn.to/3p5WROY)
+Here I am testing out the spacers between the channel strut and the roof of the van.  The top of the Transit connect is slightly curved so spacers are necessary.  I am using the four existing mounting point on the roof.  The spacers have a hole in the middle that the bold will go through.  I needed something heavy duty and I found  automotive suspension grommets do the job. [suspension grommets on Amazon](https://amzn.to/3p5WROY)
 
 ![](https://api.pcloud.com/getpubthumb?code=XZUwf8XZP8Of8rAkgG4htRG3jKm9AFHhXBFX&linkpassword=undefined&size=400x400&crop=0&type=auto)
 
@@ -40,7 +40,7 @@ This view shows the bolt and the washer in channel strut to hold it down.
 ![](https://api.pcloud.com/getpubthumb?code=XZbqf8XZqQ9ocEtkcNfHhtCjPqjTj8AGzSXV&linkpassword=undefined&size=400x400&crop=0&type=auto)
 
 
-Now I have the crossbar mounted but there is a little problem.  the bolt is tight up against the edge of hole in the channel strut...maybe a little too tight.  this happend because of the distance between the mounting holes in the roof.  The don't line up so goo with the holes in the strut.   I will probably drill out or file out some metal so that there is not so much pressure on the sides of the bolts.
+Now I have the crossbar mounted but there is a little problem.  the bolt is tight up against the edge of hole in the channel strut...maybe a little too tight.  this happened because of the distance between the mounting holes in the roof.  The don't line up so goo with the holes in the strut.   I will probably drill out or file out some metal so that there is not so much pressure on the sides of the bolts.
 
 ![](https://api.pcloud.com/getpubthumb?code=XZHtf8XZWRveJPWJjXX6iyofYfHTsYTyzswV&linkpassword=undefined&size=400x400&crop=0&type=auto)
 
