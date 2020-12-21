@@ -38,3 +38,5 @@ IMAGE_PROCESS = {
     "500": ["scale_in 500 500 True"],
     "thumb": ["crop 0 0 50% 50%", "scale_out 150 150 True", "crop 0 0 150 150"],
 }
+
+DISQUS_SITENAME = 'vanomad-com'
