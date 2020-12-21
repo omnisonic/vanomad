@@ -25,12 +25,10 @@ Here the panel has been successfully mounted to the channel strut on hinges and 
 
 Here I am testing out the spacers between the channel strut and the roof of the van.  The top of the Transit connect is slightly curved so spacers are necessary.  I am using the four existing mounting point on the roof.  The spacers have a hole in the middle that the bold will go through.  I needed something heavy duty and I found  automotive suspension grommets do the job. [suspension grommets on Amazon](https://amzn.to/3p5WROY)
 
-![](https://api.pcloud.com/getpubthumb?code=XZUwf8XZP8Of8rAkgG4htRG3jKm9AFHhXBFX&linkpassword=undefined&size=400x400&crop=0&type=auto)
+![image of grommets](https://api.pcloud.com/getpubthumb?code=XZUwf8XZP8Of8rAkgG4htRG3jKm9AFHhXBFX&linkpassword=undefined&size=400x400&crop=0&type=auto)
 
 
-
-
-Here you can see the length of the channel strut mount across the van roof. 
+Here you can see the length of the channel strut mount across the van roof.
 
 ![](https://api.pcloud.com/getpubthumb?code=XZSdf8XZf59CvYLi088kNAc4ROeBpXlQN4N7&linkpassword=undefined&size=400x400&crop=0&type=auto)
 
