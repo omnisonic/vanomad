@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pelican = {extras = ["markdown"], version = "*"}
 ghp-import = "*"
+pelican-image-process = "*"
 
 [dev-packages]
 

@@ -32,3 +32,9 @@ DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
+IMAGE_PROCESS = {
+    "article-image": ["scale_in 300 300 True"],
+    "500": ["scale_in 500 500 True"],
+    "thumb": ["crop 0 0 50% 50%", "scale_out 150 150 True", "crop 0 0 150 150"],
+}
