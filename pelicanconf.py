@@ -3,7 +3,7 @@
 
 AUTHOR = 'VaNomad'
 SITENAME = 'VaNomad'
-SITEURL = 'Vanomad.com'
+SITEURL = 'https://vanomad.com'
 
 PATH = 'content'
 OUTPUT_PATH = 'docs/'

@@ -1,2 +1,3 @@
 # vanomad
-A personal blog of my experience with nomaic living in a van
+
+A personal blog of my experience with nomadic living in a van
