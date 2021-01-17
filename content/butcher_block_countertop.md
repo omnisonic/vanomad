@@ -16,7 +16,7 @@ So far it is cutting but I have to go slow and steady.  I also had to take a bre
 
 ![butcher-block](https://api.pcloud.com/getpubthumb?code=XZHGLYXZimSd0bcEDhy9UlUiMl4reh08rlM7&linkpassword=undefined&size=400x400&crop=0&type=autok)
 
-Cut complete!  A relief that my little saw that I have had for yeart could muster the strengh to cut through such a slab.
+Cut complete!  A relief that my little saw that I have had for years could muster the strengh to cut through such a slab.
 
 ![butcher-block](https://api.pcloud.com/getpubthumb?code=XZaGLYXZLpERYiLM6cFPlvVu6pi1kmeYEP4y&linkpassword=undefined&size=400x400&crop=0&type=autok)
 
