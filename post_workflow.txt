@@ -1,0 +1,13 @@
+navigate project root folder
+vim content/<post_title>.md.  either new or existing
+edit the post
+get content from pcloud
+get content ads from amazon
+run pelican to preview
+check preview in browers
+make changes if needed. 
+run pelicanl again to preview
+run server
+run pelican with conf for production
+git add, git commit, git push
+
