@@ -5,7 +5,7 @@ Category: Van Build
 I used my camping mattresses that I have used over the years to contruct the van bed mattress.  They ware two feet wide which is how wide the van bed/bench is without the pullout extension.
 
 
-![image](http://api.pcloud.com/getpubthumb?code=XZgnlmXZIqqxnq8uIBHo5keqvIemMVj0cqck&linkpassword=undefined&size=400x400&crop=0&type=autok)
+![image](https://api.pcloud.com/getpubthumb?code=XZgnlmXZIqqxnq8uIBHo5keqvIemMVj0cqck&linkpassword=undefined&size=400x400&crop=0&type=autok)
 
 
 
@@ -13,7 +13,7 @@ I used my camping mattresses that I have used over the years to contruct the van
 
 
 
-![image](http://api.pcloud.com/getpubthumb?code=XZJMlmXZhQekVvycNGf41STeF8ia3hDKumry&linkpassword=undefined&size=400x400&crop=0&type=autok)
+![image](https://api.pcloud.com/getpubthumb?code=XZJMlmXZhQekVvycNGf41STeF8ia3hDKumry&linkpassword=undefined&size=400x400&crop=0&type=autok)
 
 I stack four different camping foam mattreses.
 
@@ -25,9 +25,9 @@ So finally, after wishin I had one for many years.  I got my own heavy duty sewi
 
 I used some curtains I had purchased for my apartment to make the bed/bench cushion covers.  I measerd the cirumfrancs of the four foam sleeping pads figure out how to cut the material to a good fit.  For the seem I added 2 inches in addtion to the toral. 
 
-![image](http://api.pcloud.com/getpubthumb?code=XZ9elmXZtKVYehXz9HjsWHg5h5zprQVKBwxV&linkpassword=undefined&size=400x400&crop=0&type=autok)
+![image](https://api.pcloud.com/getpubthumb?code=XZ9elmXZtKVYehXz9HjsWHg5h5zprQVKBwxV&linkpassword=undefined&size=400x400&crop=0&type=autok)
 
-![image](http://api.pcloud.com/getpubthumb?code=XZoelmXZ0SbP0wTKSukTUvvIggxnrh0NqPtV&linkpassword=undefined&size=400x400&crop=0&type=autok)
+![image](https://api.pcloud.com/getpubthumb?code=XZoelmXZ0SbP0wTKSukTUvvIggxnrh0NqPtV&linkpassword=undefined&size=400x400&crop=0&type=autok)
 
 I used a sharpie and a straight edge to mark where I would make the cuts.
 
@@ -41,6 +41,6 @@ I sewed two straight lines along the edge and the end of the cover.
 
 I turned it inside out to hide the seames, and insterted the pads.  Glad I got it right on the first try.
 
-![image](http://api.pcloud.com/getpubthumb?code=ZB9lmXZrygjan3EaL4fTAYycaBLLjuqc5eV&linkpassword=undefined&size=400x400&crop=0&type=autok)
+![image](https://api.pcloud.com/getpubthumb?code=ZB9lmXZrygjan3EaL4fTAYycaBLLjuqc5eV&linkpassword=undefined&size=400x400&crop=0&type=autok)
 
-![image](http://api.pcloud.com/getpubthumb?code=XZo9lmXZ9hQW3mbzS2bFcqowOytC7p8WMrOk&linkpassword=undefined&size=400x400&crop=0&type=autok)
+![image](https://api.pcloud.com/getpubthumb?code=XZo9lmXZ9hQW3mbzS2bFcqowOytC7p8WMrOk&linkpassword=undefined&size=400x400&crop=0&type=autok)
