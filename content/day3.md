@@ -12,8 +12,6 @@ Category: Travel
 
 ![image](https://api.pcloud.com/getpubthumb?code=XZUGd1XZ5gqPPgnqC7uee8nf2XjSm4w0pSqk&linkpassword=undefined&size=600x600&crop=0&type=autok)
 
-![image](https://api.pcloud.com/getpubthumb?code=XZUGd1XZ5gqPPgnqC7uee8nf2XjSm4w0pSqk&linkpassword=undefined&size=600x600&crop=0&type=autok)
-
 ![image](https://api.pcloud.com/getpubthumb?code=XZiGd1XZcQYpxnD9BmjG9vNq9y8kGLHrMI0V&linkpassword=undefined&size=600x600&crop=0&type=autok)
 
 ![image](https://api.pcloud.com/getpubthumb?code=XZcGd1XZ0JY8noL2iehsRRiD8OJYvQ7fpY6k&linkpassword=undefined&size=600x600&crop=0&type=autok)
