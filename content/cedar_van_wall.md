@@ -31,7 +31,7 @@ Once I trace out the template with pencinl onto the carboard, I then use a box c
 
 With the cardboard tempate cut out I can check how it fits and make any adjustments.
 
-![](https://api.pcloud.com/getpubthumb?code=XZoAymXZ7awzaYVND7F4NnUxoERT4mlJUxLy&linkpassword=undefined&size=400x400&crop=0&type=autok)
+![image](https://api.pcloud.com/getpubthumb?code=XZoAymXZ7awzaYVND7F4NnUxoERT4mlJUxLy&linkpassword=undefined&size=400x400&crop=0&type=autok)
 
 It turns out I do need to trim some cardbaord to get a better fit around the angles.
 
@@ -46,40 +46,32 @@ It turns out I do need to trim some cardbaord to get a better fit around the ang
 
 With the cardboard template done, I tranfered it to the ply wood and cut the plywood with a jigsaw.  Now I am going to glue the cedar to the ply wood using liquid nails.
 
-![](https://api.pcloud.com/getpubthumb?code=XZ4NymXZgRS1O4H0ShBAFmTDA6YvRyyNQpby&linkpassword=undefined&size=400x400&crop=0&type=autok)
+![image](https://api.pcloud.com/getpubthumb?code=XZ4NymXZgRS1O4H0ShBAFmTDA6YvRyyNQpby&linkpassword=undefined&size=400x400&crop=0&type=autok)
 
 
-![](https://api.pcloud.com/getpubthumb?code=XZhNymXZ6Pq72OveD5YNgJTacuMzlu3C0JHX&linkpassword=undefined&size=400x400&crop=0&type=autok)
+![image](https://api.pcloud.com/getpubthumb?code=XZhNymXZ6Pq72OveD5YNgJTacuMzlu3C0JHX&linkpassword=undefined&size=400x400&crop=0&type=autok)
 
 
-![](https://api.pcloud.com/getpubthumb?code=XZSNymXZ0UPOgGFJcfV8wcXoKwRW7fLF1lC7&linkpassword=undefined&size=400x400&crop=0&type=autok)
+![image](https://api.pcloud.com/getpubthumb?code=XZSNymXZ0UPOgGFJcfV8wcXoKwRW7fLF1lC7&linkpassword=undefined&size=400x400&crop=0&type=autok)
 
 
-![](https://api.pcloud.com/getpubthumb?code=XZfNymXZ3ArrTpSbwrLBaQUyeUHvfRSibjay&linkpassword=undefined&size=400x400&crop=0&type=autok)
+![image](https://api.pcloud.com/getpubthumb?code=XZfNymXZ3ArrTpSbwrLBaQUyeUHvfRSibjay&linkpassword=undefined&size=400x400&crop=0&type=autok)
 
 
-![](https://api.pcloud.com/getpubthumb?code=XZBNymXZ0u6llYCBqmkumaqz2wdBvJ0bJW1X&linkpassword=undefined&size=400x400&crop=0&type=autok)
+![image](https://api.pcloud.com/getpubthumb?code=XZBNymXZ0u6llYCBqmkumaqz2wdBvJ0bJW1X&linkpassword=undefined&size=400x400&crop=0&type=autok)
 
 
-![](https://api.pcloud.com/getpubthumb?code=XZDNymXZcgxmYcVNP7FB9rb1gjJ4puvCGFx7&linkpassword=undefined&size=400x400&crop=0&type=autok)
+![image](https://api.pcloud.com/getpubthumb?code=XZDNymXZcgxmYcVNP7FB9rb1gjJ4puvCGFx7&linkpassword=undefined&size=400x400&crop=0&type=autok)
 
 
-![](https://api.pcloud.com/getpubthumb?code=XZTNymXZcKo0UuBVAhSnxHBmeVgWrkM2JanV&linkpassword=undefined&size=400x400&crop=0&type=autok)
+![image](https://api.pcloud.com/getpubthumb?code=XZTNymXZcKo0UuBVAhSnxHBmeVgWrkM2JanV&linkpassword=undefined&size=400x400&crop=0&type=autok)
 
 
-![](https://api.pcloud.com/getpubthumb?code=XZwNymXZBglO6So4qhS84tgHgKaOpHlnXx47&linkpassword=undefined&size=400x400&crop=0&type=autok)
+![image](https://api.pcloud.com/getpubthumb?code=XZwNymXZBglO6So4qhS84tgHgKaOpHlnXx47&linkpassword=undefined&size=400x400&crop=0&type=autok)
 
 
-![](https://api.pcloud.com/getpubthumb?code=XZKNymXZWvUP6RK0Oz0nmwzI2LEerLRx5627&linkpassword=undefined&size=400x400&crop=0&type=autok)
+![image](https://api.pcloud.com/getpubthumb?code=XZKNymXZWvUP6RK0Oz0nmwzI2LEerLRx5627&linkpassword=undefined&size=400x400&crop=0&type=autok)
 
 
-![](https://api.pcloud.com/getpubthumb?code=XZdNymXZYX9SJtcsFoyQnob230wmbXC75qfk&linkpassword=undefined&size=400x400&crop=0&type=autok)
+![image](https://api.pcloud.com/getpubthumb?code=XZdNymXZYX9SJtcsFoyQnob230wmbXC75qfk&linkpassword=undefined&size=400x400&crop=0&type=autok)
 
-
-
-
-You can support this website by purchasing through these links.  Vanomad thanks you.
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=johnclcom-20&marketplace=amazon&amp;region=US&placement=B0772PD96K&asins=B0772PD96K&linkId=3f2a7cdecfa7c3e6eff33bdf425f955a&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=johnclcom-20&marketplace=amazon&amp;region=US&placement=B01LY02BOA&asins=B01LY02BOA&linkId=f1661eb465fb43d17e1c1bb6f730d40b&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>

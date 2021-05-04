@@ -1,6 +1,8 @@
 Title: Day 4 - To Mono Lake
 Date: 2021-04-12
 Category: Travel
+Tags: MonoLake, BikeRide, Campfire, Amazingviews
+Summary: This Day features Stunning view of Mono Lake.
 
 Little morning camp fire.  Spent night on some public land off Bodie road --luckily I found!.  Was planning on hotsprings near bridgport but was crowded.![image](https://api.pcloud.com/getpubthumb?code=XZmg31XZrn60zXYtSYBOHBVbNlY3MLROD6iy&linkpassword=undefined&size=600x600&crop=0&type=autok)
 

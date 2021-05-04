@@ -28,11 +28,11 @@ f.close()
 
 while True:
     
-    string_url = input("past url here ")
+    string_url = input("Paste url here:\n")
     if string_url == "done":
         break
     # this variable is for the text content to accompany each photo:
-    p_text = input("Type in text to accompany this photo: \n")
+    p_text = input("Type in text to accompany this photo:\n")
 
     remove = "https://my.pcloud.com/publink/show?code="
     pcode = string_url.strip(remove)
