@@ -11,6 +11,7 @@ A little morning walk up the hill to look at my surroundings.
 I found a forest road nearby leading to this big open pull-out that would make a great spot to camp.  I knew from the wether report that winds and snow storm possible today so I didn't want to be on the road.  I decided to camp here.
 ![image](https://api.pcloud.com/getpubthumb?code=XZz78eXZKdmMvUs7yoYTKIWsTEwauVfVUvi7&linkpassword=undefined&size=600x600&crop=0&type=autok)
 
+
 I stayed in my van and practiced guitar for most of the day.  A break in the storm and I stepped out to amazing views.
 ![image](https://api.pcloud.com/getpubthumb?code=XZqc4eXZOeCkzhvQFoJ9YMYjvtdorYCCdyK7&linkpassword=undefined&size=600x600&crop=0&type=autok)
 
@@ -20,7 +21,7 @@ The snow was light and fluffy.
 What a gorgeous setting.
 ![image](https://api.pcloud.com/getpubthumb?code=XZko4eXZu6MKBF6LJ8JJwgIDwvKX6BfnDRPk&linkpassword=undefined&size=600x600&crop=0&type=autok)
 
-The snow wasnt to thick, so I new I could get my van out if I went slow.  but I was going to spend the night here at such a great spot.
+The snow wasnt to thick, so I new I could get my van out if I went slow.  but I was going to spend the night here at such a great spot.   
 ![image](https://api.pcloud.com/getpubthumb?code=XZJo4eXZbkohPbkJjnjleB73S5MFUjkmYgJy&linkpassword=undefined&size=600x600&crop=0&type=autok)
 
 I decided to go for a hike and explore this forest service road a bit further.
