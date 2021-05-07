@@ -29,15 +29,18 @@ f.close()
 while True:
     
     string_url = input("Paste url here:\n")
+    print("this is what you input: " + string_url)
     if string_url == "done":
         break
     # this variable is for the text content to accompany each photo:
     p_text = input("Type in text to accompany this photo:\n")
 
     remove = "https://my.pcloud.com/publink/show?code="
-    pcode = string_url.strip(remove)
+    # bug fixed. strip() was truncating the string.  now lstrip() is onling operating on the leadin chars.
+    pcode = string_url.lstrip(remove)
+    print('this is the result:' + head_url + pcode + tail_url)
     f = open(file_name, 'a')
-    f.write(p_text + head_url + pcode + tail_url + '\n' + '\n')
+    f.write(p_text + '\n' + head_url + pcode + tail_url + '\n' + '\n')
     f.close()
 #print(pcode)
 exit()
