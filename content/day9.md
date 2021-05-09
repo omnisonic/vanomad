@@ -1,4 +1,4 @@
-Title: Day 9 - tTo the town park in Bishop
+Title: Day 9 - To the town park in Bishop
 Date: 2021-04-17
 Category: Travel
 
