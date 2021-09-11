@@ -42,4 +42,4 @@ RELATIVE_URLS = True
 
 DISQUS_SITENAME = 'vanomad-com'
 
-THEME = 'aboutwilson'
+THEME = 'jhc-aboutwilson'
