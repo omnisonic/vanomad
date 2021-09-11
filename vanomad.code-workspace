@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../pelican-themes/jhc-aboutwilson"
 		}
 	],
 	"settings": {
