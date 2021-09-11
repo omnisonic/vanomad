@@ -8,6 +8,8 @@ markdown = "*"
 invoke = "*"
 livereload = "*"
 pelican = "*"
+pelican-photos = "*"
+pillow = "*"
 
 [dev-packages]
 

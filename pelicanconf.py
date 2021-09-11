@@ -40,3 +40,5 @@ IMAGE_PROCESS = {
 }
 
 DISQUS_SITENAME = 'vanomad-com'
+
+THEME = 'aboutwilson'
