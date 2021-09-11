@@ -2,8 +2,8 @@ from datetime import date
 import os
 
 
-# change this date for each post
-post_images_dir = "./images/2021/2021-08-30"
+# change this date for each post.  posts built on day / folder of images
+post_images_dir = "./images/2021/2021-08-06"
 
 
 # get the base from the posts' /images subfolder.  The subfolders will be the named after the date the photos were taken 
