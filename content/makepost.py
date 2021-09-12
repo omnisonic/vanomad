@@ -3,7 +3,7 @@ import os
 
 
 # change this date for each post.  posts built on day / folder of images
-post_images_dir = "./images/2021/2021-08-06"
+post_images_dir = "./images/2021/" + input('what date / folder?')
 
 
 # get the base from the posts' /images subfolder.  The subfolders will be the named after the date the photos were taken 
@@ -29,13 +29,12 @@ file_name = base_name + 'Day' + day_Nbr + ext_name
 md_title = 'Title: ' + post_title
 md_date = 'Date: ' +  base_name
 md_category = 'Category: ' + input('what is the category?')
-
-
+md_tags = 'Tags: ' + input('what tags?')
 
 
 #write the file
 f = open(file_name, 'w')
-f.write(md_title + '\n'  + md_date + '\n' + md_category + '\n' + '\n')
+f.write(md_title + '\n'  + md_date + '\n' + md_category + '\n' + md_tags + '\n' + '\n')
 f.close()
 
 #loop through post images and generate html
