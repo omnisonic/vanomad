@@ -1,11 +1,12 @@
 Title: Electrical Box
 Date: 2021-01-03 
 Category: electrical
+Summary: ![battery box 1](https://api.pcloud.com/getpubthumb?code=XZ6GyYXZMqOyOVVCvKubc4jUGDWYS5LNAGcy&linkpassword=undefined&size=700x700&crop=0&type=autok)
 
-Fitting electical components into plywood box.
+Fitting electrical components into plywood box.
+
 ![battery box 1](https://api.pcloud.com/getpubthumb?code=XZ6GyYXZMqOyOVVCvKubc4jUGDWYS5LNAGcy
-&linkpassword=undefined&size=400x400&crop=0&type=autok)
-
+&linkpassword=undefined&size=700x700&crop=0&type=autok)
 
 You can support this website by purchasing through these links.  Vanomad thanks you.
 

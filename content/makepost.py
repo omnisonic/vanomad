@@ -19,7 +19,6 @@ post_y, post_m, post_d = base_name.rsplit('-')
 d0 = date(2021, 4, 8)
 dx = date(int(post_y), int(post_m),int( post_d))
 delta = dx - d0
-
 day_Nbr = str(delta.days)
 
 

@@ -1,6 +1,7 @@
 Title: Solar Panel Unboxing
 Date: 2020-12-18
 Category: Solar
+Summary: ![170 watt panel and 100 watt panel on rack 2](https://api.pcloud.com/getpubthumb?code=XZXTi8XZupqYALoBhH5hNyIOvUiJdVLoCGNy&linkpassword=undefined&size=700x700&crop=0&type=auto)
 
 
 I ordered 175 watts and 100 watt high efficiency panels.  These panels promised to be more efficient the previous models(more compact) 
@@ -8,16 +9,16 @@ In future posts I will be building a roof rack frame for the panels and attachin
 
 They arrived well packed and look very solid.
 
-![unboxing 1](https://api.pcloud.com/getpubthumb?code=XZUMi8XZ1DE4LJd5W45dTzNb9DaD0jK8MLE7&linkpassword=undefined&size=400x400&crop=0&type=autok)
+![unboxing 1](https://api.pcloud.com/getpubthumb?code=XZUMi8XZ1DE4LJd5W45dTzNb9DaD0jK8MLE7&linkpassword=undefined&size=700x700&crop=0&type=autok)
 
 
 This is the  175 watt panel.
 
-![170 watt panel](https://api.pcloud.com/getpubthumb?code=XZGMi8XZ45iu71TqLPfXRogJihBRi5kgn8v7&linkpassword=undefined&size=400x400&crop=0&type=auto)
+![170 watt panel](https://api.pcloud.com/getpubthumb?code=XZGMi8XZ45iu71TqLPfXRogJihBRi5kgn8v7&linkpassword=undefined&size=700x700&crop=0&type=auto)
 
 Here you can see the 175 watt panel and 100 watt panel side by side.  Here I am working out how to orientate them on soon to be built rack.
 
-![170 watt panel and 100 watt panel on rack 2](https://api.pcloud.com/getpubthumb?code=XZXTi8XZupqYALoBhH5hNyIOvUiJdVLoCGNy&linkpassword=undefined&size=400x400&crop=0&type=auto)
+![170 watt panel and 100 watt panel on rack 2](https://api.pcloud.com/getpubthumb?code=XZXTi8XZupqYALoBhH5hNyIOvUiJdVLoCGNy&linkpassword=undefined&size=700x700&crop=0&type=auto)
 
 These are the very same panels on amazon.  You can support this website by purchasing the panels through these links.  Vanomad thanks you.
 
