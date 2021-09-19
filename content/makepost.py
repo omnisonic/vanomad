@@ -38,7 +38,7 @@ f.close()
 
 #loop through post images and generate html
 for i in os.listdir(post_images_dir):
-   if i.endswith('.jpeg'):
+   if i.endswith('.JPG'):
         f = open(file_name, 'a')
         f.write('<img src="{static}/images/2021/' + base_name + '/' + i + '"' + ' width="700">' + '\n' + '\n')
         f.close()
