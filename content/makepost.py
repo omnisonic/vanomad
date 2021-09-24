@@ -1,9 +1,10 @@
 from datetime import date
 import os
+# from PIL import Image
 
 
 # change this date for each post.  posts built on day / folder of images
-post_images_dir = "./images/2021/" + input('what date / folder?')
+post_images_dir = "images/2021/" + input('what date / folder?')
 
 
 # get the base from the posts' /images subfolder.  The subfolders will be the named after the date the photos were taken 
@@ -20,7 +21,6 @@ d0 = date(2021, 4, 8)
 dx = date(int(post_y), int(post_m),int( post_d))
 delta = dx - d0
 day_Nbr = str(delta.days)
-
 
 post_title = 'Day ' + day_Nbr + ' - ' + input('what is the description or place?')
 
