@@ -2,14 +2,14 @@ from datetime import date
 import os
 from PIL import Image
 
-folderDate = "2021-09-28" #date of article , same name as folder name
-postPlace = "Medicine Bow NF Pole Mountain / Laramie Ranger District" # the place of this articles photos
-postCategory = "Wyoming" # pelican article category
-postTags = "National Forest -, dispursed camping" #pelican article tag(s) seperated by comma
+folderDate = "2021-10-13" #date of article , same name as folder name
+postPlace = "Snowy Drive Through Southern Colorado into New Mexico" # the place of this articles photos
+postCategory = "Colorado" # pelican article category
+postTags = "Travel" #pelican article tag(s) seperated by comma
 
 
 # change this date for each post.  posts built on day / folder of images
-post_images_dir = '/Users/omnisonic/Documents/code/MyWebDev/Python Static Sites/Pelican/vanomad/content/images/2021/2021-09-28' #"images/2021/" + folderDate
+post_images_dir = '/Users/omnisonic/Documents/code/MyWebDev/Python Static Sites/Pelican/vanomad/content/images/2021/2021-10-13' #"images/2021/" + folderDate
 
 # get the base from the posts' /images subfolder.  The subfolders will be the named after the date the photos were taken 
 # base_name = os.path.basename(post_images_dir)
