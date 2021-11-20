@@ -2,14 +2,14 @@ from datetime import date
 import os
 from PIL import Image
 
-folderDate = "2021-09-29" #date of article , same name as folder name
-postPlace = "Medicine Bow NF Pole Mountain / Laramie Ranger District" # the place of this articles photos
+folderDate = "2021-09-24" #date of article , same name as folder name
+postPlace = "Devil's Tower National Monument" # the place of this articles photos
 postCategory = "Wyoming" # pelican article category
-postTags = "National Forest -, dispursed camping" #pelican article tag(s) seperated by comma
+postTags = "National Monument" #pelican article tag(s) seperated by comma
 
 
 # change this date for each post.  posts built on day / folder of images
-post_images_dir = '.' #"images/2021/" + folderDate
+post_images_dir = "content/images/2021/" + folderDate
 
 # get the base from the posts' /images subfolder.  The subfolders will be the named after the date the photos were taken 
 # base_name = os.path.basename(post_images_dir)
@@ -28,7 +28,7 @@ day_Nbr = str(delta.days)
 
 post_title = 'Day ' + day_Nbr + ' - ' +  postPlace
 
-file_name = folderDate + 'Day' + day_Nbr + ext_name
+file_name = 'content/' + folderDate + 'Day' + day_Nbr + ext_name
 md_title = 'Title: ' + post_title
 md_date = 'Date: ' +  folderDate
 md_category = 'Category: ' + postCategory
@@ -41,13 +41,13 @@ f.write(md_title + '\n'  + md_date + '\n' + md_category + '\n' + md_tags + '\n' 
 f.close()
 
 #loop through post images and generate md / html
-for i in os.listdir('.'):
-   if i.endswith('.JPG'):
+for i in os.listdir(post_images_dir):
+   if i.endswith('.jpeg'):
 #       im = Image.open(i)
 #        im.show()
 #        imageText = input("what is this photo about?")
 
         f = open(file_name, 'a')
 #        f.write(imageText + '  ' + '<img src="{static}/images/2021/' + folderDate + '/' + i + '"' + ' width="700">' + '\n' + '\n')
-f.write('<img src="{static}/images/2021/' + folderDate + '/' + i + '"' + ' width="700">' + '\n' + '\n')
+        f.write('<img src="{static}/images/2021/' + folderDate + '/' + i + '"' + ' width="700">' + '\n' + '\n')
         f.close()
