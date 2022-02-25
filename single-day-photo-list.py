@@ -2,6 +2,7 @@ import os
 import os.path
 import random
 from PIL import Image
+from datetime import date
 
 dir = "/Users/omnisonic/pCloud Drive/Automatic Upload/iPhoneSE2G/"
 listAll = os.listdir(dir)
@@ -39,3 +40,9 @@ for f in dayList:
         i.thumbnail((size_1000))
         #    i.save(str(savePathDir) + '{}{}'.format(fn, fext))
         i.save(f'{savePath}{date}/{fn}{fext}')
+
+
+###### Here we will builk the markdown page for pelican to process
+
+
+###### ---before i can integrate the page build script i need to do fix the exif issue.----#####
