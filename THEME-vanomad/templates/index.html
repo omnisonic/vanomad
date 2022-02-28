@@ -12,13 +12,6 @@
 	<span itemprop="author" itemscope="" itemtype="http://vanomad.com">
 		<span itemprop="name">{{article.author or "John Clarke"}}</span>
 	</span>
-	<div class="summary">{{ article.summary }}
-		<span>
-			<a href="{{ SITEURL }}/{{ article.url }}">
-				 <a class="btn btn-outline-dark btn-lg px-4" href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="{{article.title}}." role="button">Read More</a> 
-			</a>
-			</span>
-	</div>
 	{% if article.category %}
 	Category:
 	<span itemprop="articleSection">
@@ -34,6 +27,14 @@
 
 	{% endfor %}
 	{% endif %}
+	<div class="summary">{{ article.summary }}
+		<span>
+			<a href="{{ SITEURL }}/{{ article.url }}">
+				 <a class="btn btn-outline-dark btn-lg px-4" href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="{{article.title}}." role="button">Read More</a> 
+			</a>
+			</span>
+	</div>
+	
 
 </div>
 <hr>
