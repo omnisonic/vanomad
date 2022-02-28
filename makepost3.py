@@ -2,7 +2,7 @@ from datetime import date
 import os
 from PIL import Image
 
-folderDate = "2021-12-02" #date of article , same name as folder name
+folderDate = "2021-10-03" #date of article , same name as folder name
 
 # change this date for each post.  posts built on day / folder of images
 post_images_dir = f'/Users/omnisonic/Documents/code/MyWebDev/Python Static Sites/Pelican/vanomad/content/images/2021/{folderDate}' #"images/2021/" + folderDate

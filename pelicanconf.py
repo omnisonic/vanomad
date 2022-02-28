@@ -9,6 +9,7 @@ SITESUBTITLE = 'a photo journal of my days living as a nomad'
 PATH = 'content'
 OUTPUT_PATH = 'docs/'
 TIMEZONE = 'America/Los_Angeles'
+DEFAULT_DATE = 'fs' # this should defautl to filesystem date when no date is in the .md meta
 
 DEFAULT_LANG = 'en'
 
@@ -42,4 +43,6 @@ RELATIVE_URLS = True
 
 DISQUS_SITENAME = 'vanomad-com'
 
-THEME = 'jhc-aboutwilson'
+THEME = 'THEME-vanomad'  # previously called "jhc-aboutwilson"
+
+# <a class="btn btn-outline-light btn-lg px-4" href="/set-a-home-page-in-pelican-site-generator-instead-of-a-blog.html" rel="bookmark" title="Link to Set a Home Page in Pelican Site Generator instead of a Blog." role="button">Read More</a>

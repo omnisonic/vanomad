@@ -42,7 +42,7 @@ for f in dayList:
         i.save(f'{savePath}{date}/{fn}{fext}')
 
 
-###### Here we will builk the markdown page for pelican to process
+###### Todo: Here we will build the markdown page for pelican to process
 
 
 ###### ---before i can integrate the page build script i need to do fix the exif issue.----#####
