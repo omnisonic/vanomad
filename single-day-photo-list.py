@@ -4,11 +4,25 @@ import random
 from PIL import Image
 from datetime import date
 
+vanomad_images = os.listdir("/Users/omnisonic/Documents/code/MyWebDev/Python Static Sites/Pelican/vanomad/content/images/2021")
+
+vanomad_images.append(os.listdir("/Users/omnisonic/Documents/code/MyWebDev/Python Static Sites/Pelican/vanomad/content/images"))
+
 dir = "/Users/omnisonic/pCloud Drive/Automatic Upload/iPhoneSE2G/"
 listAll = os.listdir(dir)
 dayList = []
-dayRndm = random.choice(listAll)
-date = dayRndm.split(' ')[0] # the split() split at the space and discards after the space so only the date on not the timestamp
+# dayRndm = random.choice(listAll)
+# date = dayRndm.split(' ')[0] # the split() split at the space and discards after the space so only the date on not the timestamp
+alreadyExists = True
+while alreadyExists:
+    dayRndm = random.choice(listAll)
+    date = dayRndm.split(' ')[0]
+    if date in vanomad_images:
+        print(f"{date} already exists, trying again for another date")
+        continue
+    alreadyExists = False
+
+
 for item in listAll:
     if "mov" in item:
         continue

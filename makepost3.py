@@ -2,7 +2,7 @@ from datetime import date
 import os
 from PIL import Image
 
-folderDate = "2021-10-03" #date of article , same name as folder name
+folderDate = "2021-08-10" #date of article , same name as folder name
 
 # change this date for each post.  posts built on day / folder of images
 post_images_dir = f'/Users/omnisonic/Documents/code/MyWebDev/Python Static Sites/Pelican/vanomad/content/images/2021/{folderDate}' #"images/2021/" + folderDate
@@ -10,7 +10,6 @@ photoList = os.listdir(post_images_dir)
 photoList.sort()
 # get the base from the posts' /images subfolder.  The subfolders will be the named after the date the photos were taken 
 # base_name = os.path.basename(post_images_dir)
-
 ext_name  = '.md'
 
 # splits the date (image folder name, same name as md file name into 3 variables for the delta)
