@@ -31,7 +31,7 @@
 	<div itemprop="articleBody" class="article-body">{{ article.content }}</div>
 	<hr>
 	<h2>Comments</h2>
-	{% include "twitter.html" %}
-	{% include 'disqus.html' %}
+	<script defer src="https://jctech-commento.herokuapp.com/js/commento.js"></script>
+	<div id="commento"></div>
 </div>
 {% endblock %}
