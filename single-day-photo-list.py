@@ -4,9 +4,9 @@ import random
 from PIL import Image
 from datetime import date
 
-vanomad_images = os.listdir("/Users/omnisonic/Documents/code/MyWebDev/Python Static Sites/Pelican/vanomad/content/images/2021")
+vanomad_images = os.listdir("/Users/omnisonic/Documents/code/MyWebDev/Python Static Sites/Pelican/vanomad/content/images/2021") # existing articles
 
-vanomad_images.append(os.listdir("/Users/omnisonic/Documents/code/MyWebDev/Python Static Sites/Pelican/vanomad/content/images"))
+vanomad_images.append(os.listdir("/Users/omnisonic/Documents/code/MyWebDev/Python Static Sites/Pelican/vanomad/content/images")) # existing articles
 
 dir = "/Users/omnisonic/pCloud Drive/Automatic Upload/iPhoneSE2G/"
 listAll = os.listdir(dir)
