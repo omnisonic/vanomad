@@ -9,7 +9,7 @@ postTags = "Travel" #pelican article tag(s) seperated by comma
 
 
 # change this date for each post.  posts built on day / folder of images
-post_images_dir = '/Users/omnisonic/Documents/code/MyWebDev/Python Static Sites/Pelican/vanomad/content/images/2021/2021-10-13' #"images/2021/" + folderDate
+post_images_dir = './content/images/2021/2021-10-13' #"images/2021/" + folderDate
 
 # get the base from the posts' /images subfolder.  The subfolders will be the named after the date the photos were taken 
 # base_name = os.path.basename(post_images_dir)

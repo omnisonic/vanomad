@@ -27,6 +27,13 @@
 
 	{% endfor %}
 	{% endif %}
+	{% if article.published %} 
+	<div>
+		Date Published:
+		{{ article.published  }}
+
+	</div>
+	{% endif %}
 	<div class="summary">{{ article.summary }}
 		<span>
 			<a href="{{ SITEURL }}/{{ article.url }}">
