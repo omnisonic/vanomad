@@ -107,3 +107,10 @@ div.collapseheader {
 	color: #0d5b06;
 	text-decoration: underline;
 }
+
+body {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 24px;
+	line-height: 1.42857143;
+	color: #808080;
+}
