@@ -2,10 +2,10 @@ from datetime import date
 import os
 from PIL import Image
 
-folderDate = "2021-08-29" #date of article , same name as folder name
+folderDate = "2022-07-03" #date of article , same name as folder name
 
 # change this date for each post.  posts built on day / folder of images
-post_images_dir = f'./content/images/2021/{folderDate}' #"images/2021/" + folderDate
+post_images_dir = f'./content/images/2022/{folderDate}' #"images/2021/" + folderDate
 photoList = os.listdir(post_images_dir)
 photoList.sort()
 # get the base from the posts' /images subfolder.  The subfolders will be the named after the date the photos were taken 
@@ -51,10 +51,10 @@ for file in photoList:
 
         f = open(f"content/{file_name}", 'a')
 #        f.write(imageText + '  ' + '<img src="{static}/images/2021/' + folderDate + '/' + i + '"' + ' width="700">' + '\n' + '\n')
-        html =f'''<img src="{{static}}/images/2021/{folderDate}/{file}" width="700">
+        html =f'''<img src="{{static}}/images/2022/{folderDate}/{file}" width="700">
 
         ---
         '''
 
-        f.write('<img src="{static}/images/2021/' + folderDate + '/' + file + '"' + ' width="700">' + '\n' + '\n')
+        f.write('<img src="{static}/images/2022/' + folderDate + '/' + file + '"' + ' width="700">' + '\n' + '\n')
         f.close()

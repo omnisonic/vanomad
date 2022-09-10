@@ -3,7 +3,7 @@ import os.path
 import random
 from PIL import Image
 from datetime import date
-import config
+import config  #this is a seperate file that contains the path to the folder of photos
 
 vanomad_images = os.listdir("./content/images/2021") # existing articles
 
@@ -11,6 +11,10 @@ vanomad_images.append(os.listdir("./content/images")) # existing articles
 
 dir = config.photo_dir
 listAll = os.listdir(dir)
+list22 = []
+for f in listAll: # looping thought to filter the date
+    if f.startswith('2022'):
+        list22.append(f)
 dayList = []
 # dayRndm = random.choice(listAll)
 # date = dayRndm.split(' ')[0] # the split() split at the space and discards after the space so only the date on not the timestamp
@@ -24,7 +28,7 @@ while alreadyExists:
     alreadyExists = False
 
 
-for item in listAll:
+for item in list22:
     if "mov" in item:
         continue
     if date in item:  
@@ -33,7 +37,7 @@ print(len(listAll))
 
 def getDateNeighborPhotos(neighboringDate):
     list = []
-    for date  in listAll:
+    for date  in list22:
         if neighboringDate in date:
             list.append(date)
     return  list
@@ -111,8 +115,9 @@ def saveListOfDayPhotos():
             #    i.save(str(savePathDir) + '{}{}'.format(fn, fext))
             i.save(f'{savePath}{date}/{fn}{fext}')
 
-# saveListOfDayPhotos()
+saveListOfDayPhotos()
 ###### Todo: Here we will build the markdown page for pelican to process
 
 
 ###### ---before i can integrate the page build script i need to do fix the exif issue.----#####
+
