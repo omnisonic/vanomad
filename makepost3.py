@@ -2,7 +2,7 @@ from datetime import date
 import os
 from PIL import Image
 
-folderDate = "2022-02-14" #date of article , same name as folder name
+folderDate = input(" what is the date - year-mo-da" ) # "2022-0-14" #date of article , same name as folder name
 
 # change this date for each post.  posts built on day / folder of images
 post_images_dir = f'./content/images/2022/{folderDate}' #"images/2021/" + folderDate
